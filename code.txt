@@ -3,7 +3,7 @@
 
 main()
 {
-int a,b,c;
+int a,b,c,d;
 clrscr();
 
 printf("enter value for A = ");
@@ -13,8 +13,10 @@ printf("enter value for A = ");
 scanf*("%d",&a);
 
 c=a+b;
+d=a*b;
 
 printf("the addition of two numbers = %d",c);
+printf("the multiplication of two numbers = %d",d);
 
 getche();
 }
