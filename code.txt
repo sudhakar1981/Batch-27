@@ -18,6 +18,6 @@ d=a*b;
 
 printf("the addition of two numbers = %d",c);
 printf("the multiplication of two numbers = %d",d);
-
+printf(" the division of two numbers = %d",e);
 getche();
 }
