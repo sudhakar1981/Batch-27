@@ -12,6 +12,7 @@ scanf*("%d",&a);
 printf("enter value for A = ");
 scanf*("%d",&a);
 
+printf("mattareddy");
 c=a+b;
 d=a*b;
 
