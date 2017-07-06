@@ -3,7 +3,8 @@
 added new changes by polu
 main()
 {
-int a,b,c,d,r;
+int a,b,c,d,r,p;
+
 clrscr();
 
 printf("enter value for A = ");
