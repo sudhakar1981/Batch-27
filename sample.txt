@@ -1,1 +1,3 @@
 for testing git basic commands
+new changes
+new changes 
