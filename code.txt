@@ -9,7 +9,7 @@ clrscr();
 
 printf("enter value for A = ");
 scanf*("%d",&a);
-
+direct changes 
 printf("enter value for A = ");
 scanf*("%d",&a);
 
