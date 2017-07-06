@@ -3,7 +3,7 @@
 added new changes by polu
 main()
 {
-int a,b,c,d;
+int a,b,c,d,f,h;
 clrscr();
 
 printf("enter value for A = ");
@@ -14,7 +14,7 @@ scanf*("%d",&a);
 
 c=a+b;
 d=a*b;
-
+printf(adding new change)
 printf("the addition of two numbers = %d",c);
 printf("the multiplication of two numbers = %d",d);
 
